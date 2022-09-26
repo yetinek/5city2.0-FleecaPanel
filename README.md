@@ -1,5 +1,5 @@
 
-Fivecity/5city2.0 Hack odzyskiwania hasła z fivecity
+Fivecity/5city2.0 Hack panelu flecca z fivecity
 
     local success = exports['mazebank_pc2']:StartMazeBank3()
     if success then
