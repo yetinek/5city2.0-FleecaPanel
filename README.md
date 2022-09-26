@@ -1,7 +1,7 @@
 
 Fivecity/5city2.0 Hack panelu flecca z fivecity
 
-    local success = exports['mazebank_pc2']:StartMazeBank3()
+    local success = exports['flecca_panel']:StartFlecca()
     if success then
         ESX.ShowNotification('Udane')
     elseif not success then
