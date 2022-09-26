@@ -12,5 +12,5 @@ Fivecity/5city2.0 Hack odzyskiwania hasła z fivecity
 
  LUA CREATED BY [SHINYX](https://github.com/ShinyXek)
 
-![unknown](https://media.discordapp.net/attachments/985607890100437063/1023703344226783375/unknown.png?width=742&height=671)
+![unknown](https://cdn.discordapp.com/attachments/917755937232683048/1023879562146369546/unknown.png)
 
