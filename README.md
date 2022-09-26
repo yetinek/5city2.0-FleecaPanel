@@ -1,4 +1,4 @@
-    # 5city2.0-MazeBankArrows
+
 Fivecity/5city2.0 Hack odzyskiwania hasła z fivecity
 
     local success = exports['mazebank_pc2']:StartMazeBank3()
@@ -10,7 +10,6 @@ Fivecity/5city2.0 Hack odzyskiwania hasła z fivecity
     
  UI CREATED BY [KORNIK](https://github.com/KoRrNiK)
 
- LUA CREATED BY [SHINYX](https://github.com/ShinyXek)
 
 ![unknown](https://cdn.discordapp.com/attachments/917755937232683048/1023879562146369546/unknown.png)
 
