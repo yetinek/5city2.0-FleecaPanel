@@ -13,7 +13,7 @@ local SuccessTrigger = nil
 local FailTrigger = nil
 local Success = false
 
-function StartFlecca(cb)
+function StartFleeca (cb)
         if MinigameActive then return end
     
             SetNuiFocus(true, true)
@@ -32,7 +32,7 @@ function StartFlecca(cb)
             return Success
         end
     
-    exports('StartFlecca', StartFlecca)
+    exports('StartFleeca', StartFleeca )
 
     RegisterCommand("test4", function(cb)
         StartFlecca()
