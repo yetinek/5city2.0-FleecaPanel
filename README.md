@@ -1,5 +1,5 @@
 
-Fivecity/5city2.0 Hack panelu flecca z fivecity
+Fivecity/5city2.0 Hack panelu fleeca  z fivecity
 
     local success = exports['flecca_panel']:StartFlecca()
     if success then
